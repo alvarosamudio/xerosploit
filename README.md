@@ -55,6 +55,10 @@ Tested on
         <td>Parrot OS</td>
         <td>3.1 </td>
     </tr>
+    <tr>
+        <td>Deepin</td>
+        <td>15.4 </td>
+    </tr>
 </table>
 
 
